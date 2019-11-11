@@ -1,5 +1,7 @@
 # Darcy-flow-2D
 
+A matlab code for visualizing 2D multi-phase fluid displacement.
+
 Simulation result on a SPE10 geological map for two phase Darcy flow (Axial displacement):
 
 ![spe10 axial](/visualization/swaxial.png)
